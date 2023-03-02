@@ -1,0 +1,38 @@
+header{
+  display: block;
+  background-color: rgb(120, 17, 210);
+  color: aliceblue;
+  text-align: center;
+  font-size: 1.5rem;
+  height: 3.5rem;
+}
+
+
+button{
+  font-size: 0.6rem;
+  height: 25px;
+}
+
+.description {
+  width: 90%;
+}
+
+#todo-container {
+  align-items: center;
+  width: 600px;
+  display: block;
+  align-items: center;
+  margin-top: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.form-field {
+  width: 100%;
+}
+
+.tasks-control {
+  align-items: center;
+}
+
