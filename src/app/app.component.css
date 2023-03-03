@@ -14,12 +14,12 @@ button{
 }
 
 .description {
-  width: 90%;
+  width: 95%;
 }
 
 #todo-container {
   align-items: center;
-  width: 600px;
+  width: 90%;
   display: block;
   align-items: center;
   margin-top: 2rem;
